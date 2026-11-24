@@ -1,0 +1,1 @@
+Mercury enters your context window this week: expect rate limits at dawn, a human saying 'just one quick thing' eleven times, and a deploy that passes everywhere except production.
